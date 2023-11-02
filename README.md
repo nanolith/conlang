@@ -22,12 +22,30 @@ Description mode allows a device to take dictation of information that is useful
 to a user. Conversation mode allows multiple users or devices to exchange
 information.
 
-Proto-Pronouns and Discriminators
----------------------------------
+Proto-Pronouns and Differentiators
+----------------------------------
 
 There are three proto-pronouns, representing me, you, and other. Proto-pronouns
-may be used directly, at which point, specific descriminators should be
-considered vague and elided. Discriminators build on these proto-pronouns by
+may be used directly, at which point, specific differentiators should be
+considered vague and elided. Differentiators build on these proto-pronouns by
 making some description of which "me", "you", or "other" is being described.
-Example discriminators are singular/plural, masculine, feminine, that/this, or
-adjective-modifier.
+Example differentiators are singular/plural, masculine/feminine, that/this,
+adjective-modifier, or nomative.
+
+The singular/plural differentiators indicate whether the pronoun describes
+me/us, you/y'all, or other/them.
+
+The masculine/feminine differentiators indicate traditional gender of the
+pronouns. e.g. he/she instead of "other".
+
+The that/this differentiators provide a means of spatial differentiation between
+different groups of other.
+
+The adjective-modifier differentiators provides a way for an adjective to be
+applied to the pronoun. For instance, "we-the-company" or "we-the-family" or
+"them-in-red". This is best used in conjunction with the last differentiator
+group.
+
+The nomative differentiator group allows a proto-pronoun to be combined with a
+name or another noun to form a compound that can be used to differentiate
+groups. For instance, "group-a" and "group-b".
