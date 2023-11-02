@@ -12,3 +12,12 @@ can be recognized.
 
 This document captures ideas and begins sketching out what this language looks
 like.
+
+Usage modes
+-----------
+
+I care about three usage modes: conversations, descriptions, and commands.
+Command mode is meant for controlling devices or for devices to instruct a user.
+Description mode allows a device to take dictation of information that is useful
+to a user. Conversation mode allows multiple users or devices to exchange
+information.
