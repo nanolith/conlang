@@ -21,3 +21,13 @@ Command mode is meant for controlling devices or for devices to instruct a user.
 Description mode allows a device to take dictation of information that is useful
 to a user. Conversation mode allows multiple users or devices to exchange
 information.
+
+Proto-Pronouns and Discriminators
+---------------------------------
+
+There are three proto-pronouns, representing me, you, and other. Proto-pronouns
+may be used directly, at which point, specific descriminators should be
+considered vague and elided. Discriminators build on these proto-pronouns by
+making some description of which "me", "you", or "other" is being described.
+Example discriminators are singular/plural, masculine, feminine, that/this, or
+adjective-modifier.
