@@ -49,3 +49,35 @@ group.
 The nomative differentiator group allows a proto-pronoun to be combined with a
 name or another noun to form a compound that can be used to differentiate
 groups. For instance, "group-a" and "group-b".
+
+Basic Parts of Speech
+---------------------
+
+The language consists of concepts, connectives, and inflectives. Roots and
+inflectives can be combined to form nouns, verbs, adjectives, and adverbs.
+Inflectives can differentiate these concepts-as-nouns, as with proto-pronoun
+differentiators. Inflectives can also modify verb tense, or indicate that a
+concept is being used as an adjective or adverb. Furthermore, inflection can be
+used to indicate how a concept is being applied in its particular form. This
+type of declension is similar to Latin or Greek, and allows us to better control
+relationships between verb, subject, object, or belonging. Certain
+relationships, such as plurality or differentiation, are applied uniformly to
+all related concepts in a sentence. For instance, when applying an adjective to
+an "other-pronoun-differentiated-as-plural-and-masculine" the adjective must be
+declined as "adjective-plural-and-masculine" to ensure that we understand that
+this adjective is being applied to this pronoun, as opposed to another pronoun.
+As an example, we say, "They(feminine-plural) are beautiful(feminine-plural) and
+other(masculine-singular) is handsome(masculine-singular)."
+
+Another good example is "They(plural-adjective-modifier-dog) are
+smart(plural-adjective-modifier-dog)." This sentence denotes that the particular
+pack of dogs are smart in a way that a pack of dogs is smart.
+
+It could be construed that this language could be used to differentiate between
+"female-smart" and "male-smart", but that would be a gross mischaracterization
+of the meaning of this differentiation. The point of differentiators can be to
+provide clarity by modifying adjectives according to their grouping, but in
+general, it is to ensure that missing context in a noisy environment could be
+recovered, much as in natural languages. As for real meaning, this is up to the
+language user. I would suggest that the principle of charity be applied, and
+that language users attempt to use this language respectfully.
